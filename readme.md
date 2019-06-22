@@ -25,6 +25,7 @@
 ## git-bash命令
 
   - [常用命令](https://blog.csdn.net/qq_20282263/article/details/80859589)
+  - [命令图解](git.jpg)
   - [文件夹操作](https://www.cnblogs.com/SamWeb/p/6516784.html)
   - [常用快捷键](https://blog.csdn.net/zly9923218/article/details/53405156)
   - 快捷键
